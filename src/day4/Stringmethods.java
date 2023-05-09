@@ -32,7 +32,8 @@ public class Stringmethods {
 	//	6.substring staring index ending index
 	//	System.out.println(s1.substring(0,3));
 		//7.Replace
-		System.out.println(s2.replace("manasa", "sadasiva"));
+	//	System.out.println(s2.replace("manasa", "sadasiva"));
+
 	}
 
 }
